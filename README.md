@@ -2,13 +2,26 @@
 
 ## Description
 
+This project aims to gain insights from metrics of content creators on Youtube using python, by exploring the trends and analyizing the categories and audience.
+
 ## Features 
+
+Python was used to carry out data exploration and visualization
 
 ## Tools Used
 
+* Python
+* Pandas
+* MatplotLib
+* Seaborn
+
 ## Result 
 
+
+
 ## Conclusion
+
+
 
 <br> <br>
 # Task 2: World Terrorism
@@ -19,7 +32,7 @@ The project aims to uncovers the patterns and insights in world terrorism. <br>
 
 ## Features 
 
-We used powerBi to explore the given dataset. <br> 
+PowerBi to explore the given dataset and used DAX formulas to add some new columns to better understand the data and present findings. <br> 
 
 ## Tools Used
 
