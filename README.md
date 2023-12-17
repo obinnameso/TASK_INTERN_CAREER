@@ -1,4 +1,17 @@
-# Uncovering the Patterns: World Terrorism
+# Task 1: YouTube Streamer Analysis
+
+## Description
+
+## Features 
+
+## Tools Used
+
+## Result 
+
+## Conclusion
+
+<br> <br>
+# Task 2: World Terrorism
 
 ## Description 
 
