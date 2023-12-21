@@ -44,7 +44,7 @@ PowerBi to explore the given dataset and used DAX formulas to add some new colum
 After proper analysis, a dashboard was built which can be seen below: 
 
 <p align = 'center'> 
-<img width='700' height='400' src = "img\terrorism_page1.png">
+<img width='700' height='400' src = "https://github.com/obinnameso/TASK_INTERN_CAREER/blob/main/task_2/img/terrorism_page1.png?raw=true">
 </p>  <br> 
 
 <p align = 'center'> 
