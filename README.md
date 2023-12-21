@@ -48,7 +48,7 @@ After proper analysis, a dashboard was built which can be seen below:
 </p>  <br> 
 
 <p align = 'center'> 
-<img width='700' height='400' src = "img\terrorism_page2.png">
+<img width='700' height='400' src = "https://github.com/obinnameso/TASK_INTERN_CAREER/blob/main/task_2/img/terrorism_page2.png?raw=true">
 </p> <br>
 
 <p align = 'center'> 
