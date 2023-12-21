@@ -1,4 +1,4 @@
-![terrorism_page1](https://github.com/obinnameso/TASK_INTERN_CAREER/assets/127059513/0fc19e45-9a1d-403c-8104-a4543abe310d)![image](https://github.com/obinnameso/TASK_INTERN_CAREER/assets/127059513/7d6bf4cd-9f07-4420-b211-dfcd23387eb5)# Task 1: YouTube Streamer Analysis
+# Task 1: YouTube Streamer Analysis
 
 ## Description
 
