@@ -44,15 +44,15 @@ PowerBi to explore the given dataset and used DAX formulas to add some new colum
 After proper analysis, a dashboard was built which can be seen below: 
 
 <p align = 'center'> 
-<img width='700' height='400' src = "terrorism_page1.png">
+<img width='700' height='400' src = "img\terrorism_page1.png">
 </p>  <br> 
 
 <p align = 'center'> 
-<img width='700' height='400' src = "terrorism_page2.png">
+<img width='700' height='400' src = "img\terrorism_page2.png">
 </p> <br>
 
 <p align = 'center'> 
-<img width='700' height='400' src = "terrorism_page3.png">
+<img width='700' height='400' src = "img\terrorism_page3.png">
 </p>
 
 ## Conclusion
