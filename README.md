@@ -25,6 +25,9 @@ After careful analysis, and charting, insights were drawn.
 <p align = 'center'> 
 <img width='700' height='400' src = "https://github.com/obinnameso/TASK_INTERN_CAREER/blob/main/task_1/img/intern_career_task_4png.png?raw=true">
 </p>  <br>
+<p align = 'center'> 
+<img width='700' height='400' src = "https://github.com/obinnameso/TASK_INTERN_CAREER/blob/main/task_1/img/intern_career_task_2.png?raw=true">
+</p>  <br>
 
 ## Recommendation
 
