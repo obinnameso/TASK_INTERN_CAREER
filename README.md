@@ -17,10 +17,17 @@ Python was used to carry out data exploration and visualization
 
 ## Result 
 
+After careful analysis, and charting, insights were drawn.
 
+<p align = 'center'> 
+<img width='700' height='400' src = "https://github.com/obinnameso/TASK_INTERN_CAREER/blob/main/task_1/img/intern_career_task_5.png?raw=true">
+</p>  <br>
 
-## Conclusion
+## Recommendation
 
+* Content creators with high number of subscribers can also be recommended to users.
+* Categories with high number of subscribers and views like the 'music and dance' can be recommended to new users and other categories with high metrics too.
+* Adverts can be targetted at the audience in those countries with high numbers of subscribers and views and likes also.
 
 
 <br> <br>
